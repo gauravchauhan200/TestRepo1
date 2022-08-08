@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37" started-at="2022-07-08T06:14:50Z" finished-at="2022-07-08T06:14:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37" started-at="2022-07-08T06:14:50Z" finished-at="2022-07-08T06:14:50Z">
+      <class name="seleniumscript.AlertLearn">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:seleniumscript.AlertLearn@70be0a2b]" name="test" duration-ms="6" started-at="2022-07-08T06:14:50Z" data-provider="dp2" finished-at="2022-07-08T06:14:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1rn09cs036]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:seleniumscript.AlertLearn@70be0a2b]" name="test" duration-ms="1" started-at="2022-07-08T06:14:50Z" data-provider="dp2" finished-at="2022-07-08T06:14:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[235]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1rn09cs098]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:seleniumscript.AlertLearn@70be0a2b]" name="test" duration-ms="3" started-at="2022-07-08T06:14:50Z" data-provider="dp2" finished-at="2022-07-08T06:14:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rahul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[236]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1rn09767]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- seleniumscript.AlertLearn -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
